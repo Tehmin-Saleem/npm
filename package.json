@@ -1,0 +1,31 @@
+{
+  "name": "tehminasmernhelper",
+  "version": "1.0.1",
+  "description": "A utility library for common MERN stack tasks like JWT, password hashing, and API responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tehmin-Saleem/npm.git"
+  },
+  "keywords": [
+    "[\"mern\"",
+    "\"jwt\"",
+    "\"password",
+    "hashing\"",
+    "\"api",
+    "helpers\"]"
+  ],
+  "author": "Tehmina Saleem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tehmin-Saleem/npm/issues"
+  },
+  "homepage": "https://github.com/Tehmin-Saleem/npm#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
